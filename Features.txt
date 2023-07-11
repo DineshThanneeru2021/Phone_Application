@@ -1,0 +1,3 @@
+New features
+
+v2: Sorage+Gallery
